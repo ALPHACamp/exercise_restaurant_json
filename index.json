@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Sababa Pita Bar",
+    "category": "Middle Eastern",
+    "image": "https://assets-lighthouse.s3.amazonaws.com/uploads/image/file/5635/01.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Umeko Japanese Unagi House",
+    "category": "Japanese",
+    "image": "https://assets-lighthouse.s3.amazonaws.com/uploads/image/file/5628/02.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ziga Zaga",
+    "category": "Italian",
+    "image": "https://assets-lighthouse.s3.amazonaws.com/uploads/image/file/5629/03.jpg"
+  },
+  {
+    "id": 4,
+    "name": "A Point Steak & Bar",
+    "category": "Steakhouse",
+    "image": "https://assets-lighthouse.s3.amazonaws.com/uploads/image/file/5630/04.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Gusto Pizza",
+    "category": "Italian",
+    "image": "https://assets-lighthouse.s3.amazonaws.com/uploads/image/file/5631/05.jpg"
+  },
+  {
+    "id": 6,
+    "name": "W XYZ Bar",
+    "category": "Wine",
+    "image": "https://assets-lighthouse.s3.amazonaws.com/uploads/image/file/5632/06.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Fika Fika Cafe",
+    "category": "Cafe",
+    "image": "https://assets-lighthouse.s3.amazonaws.com/uploads/image/file/5633/07.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Bravo Beer",
+    "category": "Italian",
+    "image": "https://assets-lighthouse.s3.amazonaws.com/uploads/image/file/5634/08.jpg"
+  }
+]
